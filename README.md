@@ -12,8 +12,7 @@
      -Experienced Olympic weightlifter  
      -Amateur rock climber (v4-5?)  
      -Beginner snowboarder who loves to shred gnar
-
-🌱 Always Learning  
+     -Always Learning🌱  
 
 🔗 Let’s Connect  
 Feel free to collaborate or reach out for interesting projects!
