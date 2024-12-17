@@ -1,4 +1,4 @@
-# Carlson
+# katie0carlson
 🚀 Physics & Data Science Student | Undergraduate Researcher   
 
 👩‍💻 About Me:   
