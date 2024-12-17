@@ -14,9 +14,9 @@ I'm an aspiring physicist and data scientist passionate about solving complex pr
   Tools: PyMOL, Visual Studio Code, HPC Environments
 
   🏋️ Beyond Code
-  \nExperienced Olympic weightlifter 🏋️‍♀️
-  \nAmateur Rock Climber 
-  \nBalancing academics, research, and a love for technical challenges
+  Experienced Olympic weightlifter \n
+  Amateur Rock Climber \n
+  Balancing academics, research, and a love for technical challenges
 
 🌱 Always Learning
   Experimenting with machine learning, visualization techniques, and scientific programming to uncover new insights.
