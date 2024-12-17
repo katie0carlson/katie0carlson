@@ -1,14 +1,8 @@
 # Carlson
-🚀 Physics & Data Science Student | Researcher | Tech Enthusiast
+🚀 Physics & Data Science Student | Undergraduate Researcher 
 
 👩‍💻 About Me
 I'm an aspiring physicist and data scientist passionate about solving complex problems through machine learning, scientific computing, and data analysis. I thrive at the intersection of science and technology.
-
-🏋️ Beyond Code
-
-  Experienced Olympic weightlifter 🏋️‍♀️
-  Amateur Rock Climber 
-  Balancing academics, research, and a love for technical challenges
   
 🔬 Current Focus
   Research projects involving PCA, logistic regression, and predictive modeling
@@ -18,6 +12,11 @@ I'm an aspiring physicist and data scientist passionate about solving complex pr
   Languages: Python, MATLAB, R
   Scientific Libraries: NumPy, Pandas, SciPy, Scikit-learn
   Tools: PyMOL, Visual Studio Code, HPC Environments
+
+  🏋️ Beyond Code
+  \nExperienced Olympic weightlifter 🏋️‍♀️
+  \nAmateur Rock Climber 
+  \nBalancing academics, research, and a love for technical challenges
 
 🌱 Always Learning
   Experimenting with machine learning, visualization techniques, and scientific programming to uncover new insights.
