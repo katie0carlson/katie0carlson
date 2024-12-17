@@ -6,7 +6,7 @@
   
 🛠 Tech Stack:  
   -Languages: Python, MATLAB, R  
-  -Scientific Libraries: NumPy, Pandas, SciPy, Scikit-learn   
+  -Libraries: NumPy, Pandas, SciPy, Scikit-learn
 
   🏋️ Beyond Code:   
      -Experienced Olympic weightlifter  
