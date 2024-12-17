@@ -13,10 +13,10 @@ I'm an aspiring physicist and data scientist passionate about solving complex pr
   Scientific Libraries: NumPy, Pandas, SciPy, Scikit-learn
   Tools: PyMOL, Visual Studio Code, HPC Environments
 
-  🏋️ Beyond Code
-  Experienced Olympic weightlifter  
-  Amateur Rock Climber  
-  Balancing academics, research, and a love for technical challenges  
+  🏋️ Beyond Code  
+     Experienced Olympic weightlifter  
+     Amateur Rock Climber  
+     Balancing academics, research, and a love for technical challenges  
 
 🌱 Always Learning
   Experimenting with machine learning, visualization techniques, and scientific programming to uncover new insights.
