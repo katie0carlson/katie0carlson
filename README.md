@@ -10,8 +10,8 @@
 
   🏋️ Beyond Code:   
      -Experienced Olympic weightlifter  
-     -Amateur Rock Climber  
-     -Beginner Snowboarder who loves to shred gnar
+     -Amateur rock climber (v4-5?)  
+     -Beginner snowboarder who loves to shred gnar
 
 🌱 Always Learning  
 
