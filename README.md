@@ -11,7 +11,7 @@
   🏋️ Beyond Code:   
      -Experienced Olympic weightlifter  
      -Amateur Rock Climber  
-     -Balancing academics, research, and a love for technical challenges  
+     -Beginner Snowboarder who loves to shred gnar
 
 🌱 Always Learning  
 
