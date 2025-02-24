@@ -2,7 +2,7 @@
 🚀 Physics & Data Science Student | Undergraduate Researcher   
 
 👩‍💻 About Me:   
-   I'm an aspiring physicist and data scientist passionate about solving complex problems through machine learning, scientific computing, and data analysis. I thrive at the intersection of science and technology.
+   I'm an aspiring physicist and data scientist passionate about solving complex problems through machine learning, scientific computing, and data analysis. 
   
 🛠 Tech Stack:  
   -Languages: Python, Java, MATLAB, Bash  
