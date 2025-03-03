@@ -6,6 +6,7 @@
   
 🛠 Tech Stack:  
   -Languages: Python, MATLAB, Bash, Java
+  
   -Libraries: NumPy, Pandas, SciPy, Scikit-learn
 
   🏋️ Beyond Code:   
