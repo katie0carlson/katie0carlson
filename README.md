@@ -5,7 +5,7 @@
    I'm an aspiring physicist and data scientist passionate about solving complex problems through machine learning, scientific computing, and data analysis. 
   
 🛠 Tech Stack:  
-  -Languages: Python, MATLAB, Bash, Java 
+  -Languages: Python, MATLAB, Bash, Java \n
   -Libraries: NumPy, Pandas, SciPy, Scikit-learn
 
   🏋️ Beyond Code:   
