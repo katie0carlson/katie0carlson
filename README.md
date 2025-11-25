@@ -5,13 +5,13 @@
    I'm an aspiring physicist and data scientist passionate about solving complex problems through machine learning, scientific computing, and data analysis. 
   
 🛠 Tech Stack:  
-  -Languages: Python, MATLAB, Bash, Linux Java <br>
+  -Languages: Python, MATLAB, BASH, HTML/CSS, JavaScript, SQL, NoSQL<br>
   -Libraries: NumPy, Pandas, SciPy, Scikit-learn, Seaborn
 
   🏋️ Beyond Code:   
      -Experienced Olympic weightlifter  
      -Amateur rock climber (v4?)  
-     -Beginner snowboarder who loves to shred gnar  
+     -Beginner snowboarder who loves to shred gnar
      -Always Learning🌱  
 
 🔗 Let’s Connect  
