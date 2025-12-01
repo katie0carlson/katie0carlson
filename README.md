@@ -14,5 +14,5 @@
      -Beginner snowboarder who loves to shred gnar<br>
      -Always Learning🌱  
 
-🔗 Let’s Connect  
+🔗 Let’s Connect:
 Feel free to collaborate or reach out for interesting projects!
