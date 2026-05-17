@@ -2,7 +2,7 @@
 🚀 Physics & Data Science Graduate | Computational Modeling, Data Analysis & Scientific Computing 
 
 👩‍💻 About Me:   
-   I'm a physicist and data scientist passionate about solving complex problems through machine learning, scientific computing, and data analysis. 
+  Hi! I'm a physicist and data scientist passionate about solving complex problems through machine learning, scientific computing, and data analysis. 
   
 🛠 Tech Stack:  
   -Languages: Python, MATLAB, BASH, HTML/CSS, SQL<br>
